@@ -11,12 +11,13 @@ tidy_data is a data frame with 180 rows and 68 columns.
 there are 30 subjects numbered 1 - 30.
 
 ### 2nd colume - "activity".
-there are 5 types of activity in this data set: 
+there are 6 types of activity in this data set: 
 1) "WALKING". 
 2) "WALKING_UPSTAIRS".
 3) "WALKING_DOWNSTAIRS".
 4) "SITTING".
 5) "STANDING".
+6) "LAYING"
 
 ### 3rd to 68th colume - Average and Standard deviation of Full sets measurments. Types of measurments:
 * TimeBodyAccelerometer: Body Accelerometer (Each colume for Axis X,Y,Z / Ave. and STD) - 6 columns.
